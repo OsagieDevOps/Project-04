@@ -256,6 +256,8 @@ sudo mysql
 CREATE DATABASE lamp_database;
 ```
 
+
+
 * Now create a new user and grant them full privileges on the custom database you’ve just created.
 
 The following command creates a new user named lamp_user that authenticates with the caching_sha2_password method. We’re defining this user’s password as password, but you can replace this value with a secure password of your own choosing.
@@ -293,7 +295,7 @@ SHOW DATABASES;
 
 * This will give you the following output:
 
-
+![alt text](Image/show-database.png)
 
 * Next, create a test table named todo_list. From the MySQL console, run the following statement:
 
@@ -319,7 +321,7 @@ SELECT * FROM lamp_database.todo_list;
 
 The following is the output:
 
-
+![alt text](Image/lamp-database.png)
 
 
 After confirming that you have valid data in your test table, exit the MySQL console:
