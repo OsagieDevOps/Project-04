@@ -369,13 +369,15 @@ http://your_domain_or_IP/todo_list.php
 
 This web page should reveal the content you’ve inserted in your test table to your visitor:
 
-
+![alt text](Image/tado-pix.png)
 
 
 That means your PHP environment is ready to connect and interact with your MySQL server.
+
 
 Conclusion:
 
 In this guide, we’ve built a flexible foundation for serving PHP websites and applications using the LAMP stack on Ubuntu 22.04. Each component—Linux, Apache, MySQL, and PHP—plays a critical role in web development, and with this setup, we have a robust environment to host and develop dynamic web applications.
 
 Project Completed!🎉
+
