@@ -215,7 +215,7 @@ sudo vi /var/www/lamp/info.php
 <?php
 phpinfo();
 ```
-![alt text](image/php-info.png)
+![alt text](Image/php-info.png)
 
 When you are done, save and close the file.
 
